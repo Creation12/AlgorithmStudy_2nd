@@ -1,0 +1,1 @@
+[1st_week] [Compare the Triplets | HackerRank](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
